@@ -9,8 +9,8 @@
 
 .salmon{
     background-color: salmon;
-    height: calc(100% - 20px);
-    line-height: 50%;
+    height: 100%;
+    line-height: 228px;
     border: 1px solid white;
 }
 
