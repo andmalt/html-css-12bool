@@ -1,0 +1,16 @@
+.pink{
+    background-color: pink;
+    height:250px;
+    line-height: 250px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.salmon{
+    background-color: salmon;
+    height: calc(100% - 20px);
+    line-height: 50%;
+    border: 1px solid white;
+}
+
